@@ -52,7 +52,7 @@ img:hover:not(.active) {
     grid-column-gap: 20px;
     margin: 0 18% 0 18%;
 }
-#sis_oper {
+#sis_oper, #sis_adm {
     text-align: center;
     background-color: #e0e0e0;
     margin:0px;
@@ -60,16 +60,6 @@ img:hover:not(.active) {
     border: 5px #e2e2e2 solid;
     color: #525252;
 }
-#sis_adm{
-    text-align: center;
-    background-color: #e0e0e0;
-    margin:0px;
-    padding:0px;
-    border: 5px #e2e2e2 solid;
-    color: #525252;
-    height: 400px
-}
-
 #ldv_fria{
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
