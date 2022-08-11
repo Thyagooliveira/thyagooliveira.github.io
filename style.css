@@ -122,6 +122,68 @@ img:hover:not(.active) {
     height: 536px;
 }
 
+#ldv_quente{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-column-gap: 20px;
+    margin: 0 20px 0 20px; 
+    height: 945px;
+}
+#ldv_quente #bombas {
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid; 
+    color: #525252;
+    height: 919px;
+}
+#ldv_quente #reatores{
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid; 
+    color: #525252;
+    height: 292px;
+}
+#ldv_quente #torres{
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid; 
+    color: #525252;
+    height: 361px;
+}
+#ldv_quente #trocadores{
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid; 
+    color: #525252;
+    height: 710px;
+}
+#ldv_quente #compressores{
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid; 
+    color: #525252;
+    height: 605px;
+}
+#ldv_quente #outros{
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid; 
+    color: #525252;
+    height: 536px;
+}
+
 #ldv{
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
