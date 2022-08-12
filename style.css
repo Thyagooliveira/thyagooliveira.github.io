@@ -147,7 +147,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 540px;
 }
 #ldv_quente #torres{
     text-align: center;
@@ -156,7 +156,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 350px;
 }
 #ldv_quente #trocadores{
     text-align: center;
