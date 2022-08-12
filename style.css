@@ -58,14 +58,52 @@ img:hover:not(.active) {
     margin: 0 18% 0 18%;
 }
 
-#sis_oper, #sis_adm {
+#sis_oper {
     text-align: center;
     background-color: #e0e0e0;
     margin:0px;
     padding:0px;
     border: 5px #e2e2e2 solid;
     color: #525252;
+    height: 361px;
 }
+#sis_adm {
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid;
+    color: #525252;
+    height: 431px;
+}
+#sis_divisao {
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid;
+    color: #525252;
+    height: 396px;
+}
+#sis_operacao {
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid;
+    color: #525252;
+    height: 222px;
+}
+#sis_trabalhos {
+    text-align: center;
+    background-color: #e0e0e0;
+    margin:0px;
+    padding:0px;
+    border: 5px #e2e2e2 solid;
+    color: #525252;
+    height: 222px;
+}
+
 
 #ldv_fria{
     display: grid;
@@ -81,7 +119,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 919px;
+    height: 918px;
 }
 #ldv_fria #reatores{
     text-align: center;
@@ -90,7 +128,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 292px;
+    height: 291px;
 }
 #ldv_fria #torres{
     text-align: center;
@@ -108,7 +146,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 710px;
+    height: 709px;
 }
 #ldv_fria #compressores{
     text-align: center;
@@ -126,7 +164,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 536px;
+    height: 535px;
 }
 
 #ldv_quente{
@@ -152,7 +190,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 540px;
+    height: 501px;
 }
 #ldv_quente #torres{
     text-align: center;
@@ -161,7 +199,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 350px;
+    height: 326px;
 }
 #ldv_quente #trocadores{
     text-align: center;
@@ -170,7 +208,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 222px;
 }
 #ldv_quente #compressores{
     text-align: center;
@@ -179,7 +217,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 222px;
 }
 #ldv_quente #outros{
     text-align: center;
@@ -188,7 +226,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 222px;
 }
 
 #ldv_osbl{
@@ -205,7 +243,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 222px;
 }
 #ldv_osbl #fornos{
     text-align: center;
@@ -214,7 +252,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 222px;
 }
 #ldv_osbl #torres{
     text-align: center;
@@ -223,7 +261,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 222px;
 }
 #ldv_osbl #trocadores{
     text-align: center;
@@ -232,7 +270,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 222px;
 }
 #ldv_osbl #compressores{
     text-align: center;
@@ -241,7 +279,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 222px;
 }
 #ldv_osbl #outros{
     text-align: center;
@@ -250,7 +288,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 270px;
+    height: 222px;
 }
 
 
