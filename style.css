@@ -297,7 +297,7 @@ img:hover:not(.active) {
     color: #525252;
     padding: 6px 12px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 16px;
     background-color: #ffbc00;
 }
 .descricao2{
@@ -305,7 +305,7 @@ img:hover:not(.active) {
     color: #525252;
     padding: 6px 12px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 16px;
     background-color: #00ade9;
 }
 .descricao3{
@@ -313,7 +313,7 @@ img:hover:not(.active) {
     color: #525252;
     padding: 6px 12px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 16px;
     background-color: #4caf50;
 }
 .descricao4{
