@@ -52,7 +52,7 @@ img:hover:not(.active) {
 #conteudo_index{
     display: grid;
     grid-template-columns: 33% auto auto;
-    grid-column-gap: 20px;
+    grid-column-gap: 15px;
     margin: 0 18% 0 18%;
 }
 #conteudo{
@@ -134,7 +134,7 @@ img:hover:not(.active) {
 #ldv_fria{
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
-    grid-column-gap: 20px;
+    grid-column-gap: 15px;
     margin: 0 20px 0 20px; 
     height: 945px;
 }
@@ -196,7 +196,7 @@ img:hover:not(.active) {
 #ldv_quente{
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
-    grid-column-gap: 20px;
+    grid-column-gap: 15px;
     margin: 0 20px 0 20px; 
     height: 945px;
 }
@@ -258,7 +258,7 @@ img:hover:not(.active) {
 #ldv_osbl{
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
-    grid-column-gap: 20px;
+    grid-column-gap: 15px;
     margin: 0 20px 0 20px; 
     height: 945px;
 }
