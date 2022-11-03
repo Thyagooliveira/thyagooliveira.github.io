@@ -130,12 +130,12 @@ img:hover:not(.active) {
 #ramais_col2{display: grid; grid-template-columns: auto 120px; grid-column-gap: 0px; margin: 0 0 0 0;}
 #ramais_col2:hover:not(.active){background-color: #555; color: white;}
 
-#producao_q4 {height: 593px; width: 270px;}
-#producao_pe9 {height: 241px; width: 270px;}
-#ssma {height: 195px; width: 270px;}
-#lab {height: 359px; width: 270px;}
-#outros {height: 175px; width: 270px;}
-.areas3{border: 1px #b6b5b5 solid; text-align: left; padding-left: 7px;}
+#producao_q4 {height: 593px; }
+#producao_pe9 {height: 241px; }
+#ssma {height: 195px; }
+#lab {height: 359px; }
+#outros {height: 175px; }
+.areas3{border: 1px #b6b5b5 solid; text-align: left; padding-left: 7px; }
 .areas4{border: 1px #b6b5b5 solid; text-align: center;}
 
 #sis_operacao {
