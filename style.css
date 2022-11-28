@@ -68,7 +68,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid;
     color: #525252;
-    height: 456px;
+    height: 461px;
 }
 #sis_adm {
     text-align: center;
@@ -77,7 +77,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid;
     color: #525252;
-    height: 431px;
+    height: 429px;
 }
 .sis_divisao {
     color: #525252;
@@ -134,7 +134,7 @@ img:hover:not(.active) {
 #producao_pe9 {height: 241px; }
 #ssma {height: 349px; }
 #lab {height: 358px; }
-#outros {height: 322px; }
+#outros {height: 306px; }
 .areas3{border: 1px #b6b5b5 solid; text-align: left; padding-left: 7px; }
 .areas4{border: 1px #b6b5b5 solid; text-align: center;}
 
@@ -233,7 +233,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 591px;
+    height: 589px;
 }
 #ldv_quente #fornos{
     text-align: center;
@@ -242,7 +242,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 501px;
+    height: 461px;
 }
 #ldv_quente #torres{
     text-align: center;
@@ -251,7 +251,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 431px;
+    height: 397px;
 }
 #ldv_quente #trocadores{
     text-align: center;
@@ -260,7 +260,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 222px;
+    height: 205px;
 }
 #ldv_quente #compressores{
     text-align: center;
@@ -269,7 +269,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 222px;
+    height: 205px;
 }
 #ldv_quente #outros{
     text-align: center;
@@ -278,7 +278,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 222px;
+    height: 205px;
 }
 
 #ldv_osbl{
@@ -295,7 +295,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 222px;
+    height: 205px;
 }
 #ldv_osbl #fornos{
     text-align: center;
@@ -304,7 +304,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 222px;
+    height: 205px;
 }
 #ldv_osbl #torres{
     text-align: center;
@@ -313,7 +313,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 222px;
+    height: 205px;
 }
 #ldv_osbl #trocadores{
     text-align: center;
@@ -322,7 +322,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 222px;
+    height: 205px;
 }
 #ldv_osbl #compressores{
     text-align: center;
@@ -331,7 +331,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 222px;
+    height: 205px;
 }
 #ldv_osbl #outros{
     text-align: center;
@@ -340,7 +340,7 @@ img:hover:not(.active) {
     padding:0px;
     border: 5px #e2e2e2 solid; 
     color: #525252;
-    height: 222px;
+    height: 205px;
 }
 
 
